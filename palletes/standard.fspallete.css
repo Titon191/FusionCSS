@@ -1,0 +1,27 @@
+:root {
+    --palletename: 'Standard';
+    --version: 1.0.1;
+    --red: #d92020;
+    --cherry: #950f0f;
+    --darkblue: #0f47a2;
+    --blue: #1d6cda;
+    --lightblue: #4993ec;
+    --yellow: #e7d01d;
+    --orange: #ec810f;
+    --deeporange: #e1430c;
+    --green: #1fcf1f;
+    --lightgreen: #54ec54;
+    --pink: #ce2183;
+    --purple: #a51bb9;
+    --indigo: #3e19c7;
+    --cyan: #16d9c9;
+    --brown: #923f1c;
+    --bluegray: #31354b;
+    --darkgray: #505050;
+    --gray: #818080;
+    --lightgray: #b2b2b2;
+    --white: #fff;
+    --black: #000;
+
+    --primary: var(--blue);
+}
