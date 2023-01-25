@@ -5,7 +5,7 @@ Easy to use Pure CSS library with everything you need.
 All you need to do to start using FusionCSS is add this snippet of HTML code to your website:
 ```html
 <link rel="stylesheet" href="https://app.titondesign.xyz/fusion.min.css">
-<link rel="stylesheet" href="https://app.titondesign.xyz/fusionui/standard.fspallete.css">
+<link rel="stylesheet" href="https://app.titondesign.xyz/fusionui/fusionui.fspallete.css">
 ```
 Now you can use ready-made FusionCSS classes as shown below.
 ```html
