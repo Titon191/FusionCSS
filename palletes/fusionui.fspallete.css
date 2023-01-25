@@ -1,0 +1,35 @@
+:root {
+    --palletename: 'FusionUI';
+    --fontname: Poppins;
+    --version: 1.0.5;
+    
+    --red: #d60d1d;
+    --cherry: #7c0404;
+    --darkblue: #011fbe;
+    --blue: #0e3cfb;
+    --lightblue: #376dff;
+    --yellow: #f1b306;
+    --orange: #cf710d;
+    --deeporange: #e93f0e;
+    --green: #0f9531;
+    --lightgreen: #6bf16a;
+    --pink: #e73b9d;
+    --purple: #9f0dd6;
+    --indigo: #350bd9;
+    --cyan: #0fecda;
+    --brown: #702c0a;
+    --bluegray: #313543;
+    --darkgray: #141424;
+    --gray: #212137;
+    --lightgray: #9599a7;
+    --white: #fff;
+    --black: #000;
+
+    --selection: #8872de54;
+    --primaryfocus: #7b5aff;
+    --secondary: var(--bluegray);
+    --primary: var(--indigo);
+    --warning: var(--orange);
+    --success: var(--green);
+    --error: var(--red);
+}
