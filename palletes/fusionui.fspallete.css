@@ -1,8 +1,11 @@
-:root {
-    --palletename: 'FusionUI';
-    --fontname: Poppins;
-    --version: 1.0.5;
-    
+:root {  
+    /* Theme info & settings */
+    --palletename:'FusionUI';
+    --fontname: 'Poppins', sans-serif;
+    --version: 1.1.0;
+    --transition: .2s ease;
+
+    /* Color pallete */
     --red: #d60d1d;
     --cherry: #7c0404;
     --darkblue: #011fbe;
@@ -25,6 +28,7 @@
     --white: #fff;
     --black: #000;
 
+    /* Additional colors */
     --selection: #8872de54;
     --primaryfocus: #7b5aff;
     --secondary: var(--bluegray);
@@ -32,4 +36,17 @@
     --warning: var(--orange);
     --success: var(--green);
     --error: var(--red);
+
+    /* Components styles */
+    --scrollbar-bg: #00000045;
+    --scrollbar-color: var(--primary);
+    --button-padding: .55rem 1.15rem;
+    --button-hover-overlay-opacity: 18%;
+    --button-hover-overlay-rgb: 0 0 0;
+    --button-hover-filter: drop-shadow(0 6px 8px rgb(0 0 0 / .2));
+    --primary-color: white;--round: .4rem;
+    --ring-width: 2px;
+    --ring-offset: -1px;
+    --mobile-nav-bg: #141424db;
+    --mobile-nav-blur: 10px;
 }
